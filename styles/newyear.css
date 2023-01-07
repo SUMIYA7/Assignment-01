@@ -37,6 +37,68 @@
         right: 20px;
         text-align: left;
     }
+    /* section styles */
+    .my-plan{
+        margin-top: 130px;
+    }
+    .section-title{
+        text-align: center;
+        font-weight: 700;
+        font-size: 35px;
+        margin-bottom: 30px;
+    
+    }
+    .plans-containerr{
+        display: flex;
+        gap: 24px;
+        
+    }
+    .plan{
+        background: #FFFFFF;
+        box-shadow: 0px 6px 50px rgba(0,0,0,0.06);
+        border-radius: 10px;
+        padding: 50px;
+        
+    }
+    .plan-title{
+        font-weight: 700;
+        font-size: 20px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+.plan-description{
+    color: #757575;
+}
+.bg-image-blend{
+    margin-top: 130px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+}
+
+.watch{
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+    
+.gradient{
+      position: relative;
+      top: 0px;
+      left: 0px;
+    }
+    .containerrr{
+        position: relative;
+        text-align: center;
+        color: white;
+      }
+      .top-left {
+        position: absolute;
+        top: 8px;
+        left: 16px;
+      }
+    
 
 
   
