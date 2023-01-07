@@ -20,10 +20,11 @@
     font-weight: 600;
     font-size: 20px;
     border:0;
-    padding: 18px 35px;
+    padding: 18px 30px;
     height: 64px;
     border-radius: 5px;
     background: #FD6E0A;
+    margin-top: 10px;
   }
     .banner{
         display: flex;
@@ -98,7 +99,26 @@
         top: 8px;
         left: 16px;
       }
+    /* contact styles */
+    .contact{
+        display: flex;
+        gap: 100px;
+        background: black;
+        padding: 130px 200px;
+    }
+    .section-description{
+        color: white;
+        font-size: 18px;
+        margin-bottom: 30px;
     
+    }
+    .sectiontitle{
+    text-align: left;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 30px;
+    color: white;
+    }
 
 
   
